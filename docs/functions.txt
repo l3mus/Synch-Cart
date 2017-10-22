@@ -1,0 +1,64 @@
+function request2(content){
+	console.log(content);
+	var item;
+	var promises = [];
+	var request;
+	$.ajax({
+         url: "request2.php",
+         type: "POST",	
+		 dataType: "json",
+         data: {qrcode: content},
+         success: function(obj, textstatues){
+            console.log(obj);
+			item = obj;
+			console.log(item);
+			for(i = 0; i < item.length; i++)
+			{
+				request = isNextPurchase(item[i]);
+				
+			promises.push(request);
+			}
+			
+			$.when.apply(null,promises).done(function(){
+			
+			});
+			
+         },
+		 error: function(obj,response){
+			 console.log(obj);
+			console.log("error");
+		 }
+    });
+}
+
+function isNextPurchase(item){
+	var result;
+	var listItem;
+	var price;
+	var request;
+	request = $.ajax({
+         url: "next_purchase.php",
+         type: "POST",	
+         dataType: "json",
+         data: {accountNum: accountNum},
+         success: function(obj, textstatus){
+            console.log(obj);
+			parsed = JSON.parse(obj);
+			for(i = 0; i < parsed["categories"].length; i++)
+			{
+			console.log(parsed["categories"][i]);
+				if(parsed["categories"][i]["probability"] > 60 && parsed["categories"][i]["categoryName"].toUpperCase() == item["Category"].toUpperCase())
+				{
+					createItem(item,parsed);
+					console.log(item);
+					console.log(parsed);
+				}
+			}
+         },
+		 error: function(response){
+			 console.log("FWEIJR");
+			 console.log(response);
+		 }
+    });
+	return request;
+}

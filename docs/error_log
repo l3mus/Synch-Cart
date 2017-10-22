@@ -1,0 +1,86 @@
+[22-Oct-2017 00:45:59 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:46:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 00:47:12 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:47:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 31
+[22-Oct-2017 00:47:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 31
+[22-Oct-2017 00:48:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 00:49:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 32
+[22-Oct-2017 00:49:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 33
+[22-Oct-2017 00:49:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 00:50:18 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:50:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:51:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:51:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:51:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:51:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:51:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:57:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:57:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 8
+[22-Oct-2017 00:57:48 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 25
+[22-Oct-2017 00:58:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 00:58:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 00:58:51 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 26
+[22-Oct-2017 00:59:04 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 26
+[22-Oct-2017 00:59:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 00:59:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 01:00:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 01:00:18 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 26
+[22-Oct-2017 01:00:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 01:01:51 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 25
+[22-Oct-2017 01:02:22 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 26
+[22-Oct-2017 01:02:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 01:02:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 01:05:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 01:06:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/loyalty.php:1) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 2
+[22-Oct-2017 01:07:19 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 28
+[22-Oct-2017 01:10:56 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 27
+[22-Oct-2017 01:12:44 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 27
+[22-Oct-2017 01:13:09 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 28
+[22-Oct-2017 01:13:37 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 29
+[22-Oct-2017 01:13:55 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 29
+[22-Oct-2017 01:13:58 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 29
+[22-Oct-2017 01:14:00 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 29
+[22-Oct-2017 01:15:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 3
+[22-Oct-2017 01:16:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 3
+[22-Oct-2017 01:43:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 3
+[22-Oct-2017 01:43:30 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 27
+[22-Oct-2017 01:43:54 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 27
+[22-Oct-2017 01:45:06 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 27
+[22-Oct-2017 01:45:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 3
+[22-Oct-2017 01:45:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 3
+[22-Oct-2017 01:46:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/cart.php on line 3
+[22-Oct-2017 02:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function atoi() in /home3/wadestuf/public_html/qrtest/docs/loyalty.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/wadestuf/public_html/qrtest/docs/loyalty.php on line 9
+[22-Oct-2017 02:42:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 02:44:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 02:49:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 02:50:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 02:52:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 02:52:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 02:53:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 02:53:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:03:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:15:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:18:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:19:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:20:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:21:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:24:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:27:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:28:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:28:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:30:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:30:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:31:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:33:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:33:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:38:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:44:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:44:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:44:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:45:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:45:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
+[22-Oct-2017 03:46:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wadestuf/public_html/qrtest/docs/cart.php:1) in /home3/wadestuf/public_html/qrtest/docs/header.php on line 2
